@@ -1,0 +1,4 @@
+/* Small custom style for aspect ratio not directly available in Tailwind */
+.board {
+    aspect-ratio: 1 / 1; /* Ensures the board remains square */
+}
